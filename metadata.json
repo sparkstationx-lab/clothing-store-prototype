@@ -1,0 +1,7 @@
+{
+  "name": "Your Clothing Store – Brands We Carry",
+  "description": "Clothing store showcasing carefully chosen brands with 3D cloth animation and brand catalog.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
